@@ -36,6 +36,7 @@ with the following design
 ## Non functional requirements
 - use the provided design
 - to add todo users must use the input provided by the design and press enter
+- to mark as done or undone users must click at the circle at the left corner of the todo
 - all done todos should appear at the end of the list 
 - it should be responsible so we can use on our smart phones
 - use your creativity ;)
