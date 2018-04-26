@@ -47,7 +47,7 @@ with the following design
 - Do not use JQuery or any other libraries that are not necessary
 - Use reusable components
 - Document your code with comments
-- Provide a better Design for the app
+- Provide a better design for the app
 - Use Sass
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
