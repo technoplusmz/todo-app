@@ -38,7 +38,7 @@ with the following design
 - to add todo users must use the input provided by the design and press enter
 - to mark as done or undone users must click at the circle at the left corner of the todo
 - all done todos should appear at the end of the list 
-- it should be responsible so we can use on our smart phones
+- it should be responsive so we can use on our smart phones
 - use your creativity ;)
 
 
@@ -47,6 +47,7 @@ with the following design
 - Do not use JQuery or any other libraries that are not necessary
 - Use reusable components
 - Document your code with comments
+- Provide a better design for the app
 - Use Sass
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
