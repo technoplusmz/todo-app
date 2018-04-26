@@ -3,7 +3,7 @@
 - NodeJS
 - NPM/Yarn (Yarn is prefered)
 
-# Instuctions
+# Instructions
 - Fork this repo
 - Write the app using vue components and Vuex state management
 - Use this poject's structure for development
@@ -22,9 +22,9 @@ npm run dev
 ```
 
 # The problem
-We have a little problem which is Task management.
-So our company decided to build a simple todo so our co-workers can track what their are doing
-with the following design 
+We have a little problem whith Tasks management.
+So our company decided to build a simple "todo" app so our co-workers can track what they are doing.
+This is the desired design:
 
 ![alt text](todo-app.png)
  
@@ -35,8 +35,8 @@ with the following design
 
 ## Non functional requirements
 - use the provided design
-- to add todo users must use the input provided by the design and press enter
-- to mark as done or undone users must click at the circle at the left corner of the todo
+- to add todo, users must use the input provided by the design and press enter
+- to mark as done or undone, users must click at the circle at the left corner of the todo
 - all done todos should appear at the end of the list 
 - it should be responsive so we can use on our smart phones
 - use your creativity ;)
